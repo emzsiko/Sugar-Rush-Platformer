@@ -1,0 +1,40 @@
+{
+    "activeFile": "StarterPlatformer/assets/platformer-level-1.tmx",
+    "expandedProjectPaths": [
+        "StarterPlatformer",
+        "StarterPlatformer/assets"
+    ],
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "StarterPlatformer/assets/platformer-level-1.tmx": {
+            "scale": 0.8959027777777777,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 455.40655763119145,
+                "y": 178.5908069141927
+            }
+        },
+        "StarterPlatformer/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/eishi/OneDrive/Documents/GitHub/cmpm 120/StarterPlatformer/assets",
+    "last.imagePath": "C:/Users/eishi/OneDrive/Documents/GitHub/cmpm 120/StarterPlatformer/assets",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "StarterPlatformer/assets/platformer-level-1.tmx"
+    ],
+    "project": "Starter Platformer.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "StarterPlatformer/assets/platformer-level-1.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}
