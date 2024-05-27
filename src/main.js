@@ -8,8 +8,7 @@
 //
 // Uses code borrowed from Jim Whitehead
 // 
-// Art assets from Kenny Assets "Shape Characters" set:
-// https://kenney.nl/assets/shape-characters
+// Art assets from Kenny Assets
 
 // debug with extreme prejudice
 "use strict"
