@@ -1,6 +1,6 @@
 **Sugar Rush**
 
-A level of a platformer game using Arcade Phsyics in Phaser.
+A level of a platformer game using Arcade Physics in Phaser.
 
 Uses the following packs from [Kenny Assets](https://kenney.nl/assets), with gratitude:
 
